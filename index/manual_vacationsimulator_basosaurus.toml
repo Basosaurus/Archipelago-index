@@ -3,4 +3,4 @@ display_name = "Manual: Vacation Simulator"
 home = "https://discord.com/channels/1097532591650910289/1495457119695274216"
 
 [versions]
-"1.1.0" = { url = "https://cdn.discordapp.com/attachments/1495457119695274216/1563672244356391084/manual_vacationsimulator_basosaurus.apworld?ex=6ade7ac2&is=6add2942&hm=1774f9cc6b886881cee2ce42ad862a7dc1e54ed84c87eec3cc2c8d17a95434d5&" }
+"1.1.0" = { url = "https://github.com/Basosaurus/VSim-AP/releases/download/release/manual_vacationsimulator_basosaurus.apworld" }
